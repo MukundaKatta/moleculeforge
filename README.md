@@ -77,6 +77,3 @@ src/
     └── mock-data.ts        # Sample molecular data
 ```
 
-## License
-
-MIT
